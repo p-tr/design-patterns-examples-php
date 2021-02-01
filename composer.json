@@ -1,0 +1,15 @@
+{
+    "name": "pierre/design-patterns-examples-php",
+    "type": "project",
+    "license": "unlicense",
+    "authors": [
+        {
+            "name": "Pierre Tellier-Robert",
+            "email": "hi@p-tr.space"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": { "": [ "src/", "lib/" ] }
+    }
+}
